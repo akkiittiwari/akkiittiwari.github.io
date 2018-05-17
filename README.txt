@@ -12,7 +12,7 @@ Attached :
   - Data : data.zip
   - code : code.zip
   - presentation slides : presentation.pdf
-  - screencast : screencast video explaining the project
+  - screencast video explaining the project : screencast.zip
   
   
 
